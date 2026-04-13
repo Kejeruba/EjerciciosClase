@@ -14,7 +14,6 @@ public class Main {
     }
 
     static void metodo1() throws ArithmeticException{
-
         try {
             int numero = 10/0;
         } finally {
